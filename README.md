@@ -1,6 +1,6 @@
 # pos
 
-> A Pos project Base on Vue2.0+Vue-router+Element UI+Axios
+> A Pos project Base on Vue2.x+Vue-router+Element UI+Axios
 
 ## Build Setup
 
